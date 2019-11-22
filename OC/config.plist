@@ -270,7 +270,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>g/sPDw==</data>
 				<key>Identifier</key>
@@ -292,7 +292,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>g/kPDw==</data>
 				<key>Identifier</key>
@@ -319,20 +319,20 @@
 			<false/>
 			<key>CustomSMBIOSGuid</key>
 			<false/>
-			<key>DisableIoMapper</key>
+			<key>DisableIOMapper</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<true/>
 			<key>LapicKernelPanic</key>
 			<false/>
 			<key>PanicNoKextDump</key>
-			<false/>
+			<true/>
 			<key>PowerTimeoutKernelPanic</key>
-			<false/>
+			<true/>
 			<key>ThirdPartyTrim</key>
 			<true/>
 			<key>XhciPortLimit</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>Misc</key>
