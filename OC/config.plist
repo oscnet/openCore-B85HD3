@@ -352,7 +352,7 @@
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>Resolution</key>
-			<string>3840x2160</string>
+			<string></string>
 			<key>ShowPicker</key>
 			<false/>
 			<key>Timeout</key>
@@ -363,7 +363,7 @@
 		<key>Debug</key>
 		<dict>
 			<key>DisableWatchDog</key>
-			<false/>
+			<true/>
 			<key>DisplayDelay</key>
 			<integer>0</integer>
 			<key>DisplayLevel</key>
@@ -387,9 +387,9 @@
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
-			<false/>
+			<true/>
 			<key>ExposeSensitiveData</key>
-			<integer>3</integer>
+			<integer>2</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>RequireSignature</key>
@@ -397,7 +397,7 @@
 			<key>RequireVault</key>
 			<false/>
 			<key>ScanPolicy</key>
-			<integer>65795</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Tools</key>
 		<array>
@@ -409,7 +409,7 @@
 				<key>Comment</key>
 				<string>VerifyMsrE2.efi</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>VerifyMsrE2.efi</string>
 			</dict>
