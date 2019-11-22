@@ -319,7 +319,7 @@
 			<false/>
 			<key>CustomSMBIOSGuid</key>
 			<false/>
-			<key>DisableIOMapper</key>
+			<key>DisableIoMapper</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<true/>
