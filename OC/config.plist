@@ -7,32 +7,8 @@
 		<key>Add</key>
 		<array>
 			<dict>
-				<key>Comment</key>
-				<string>My custom DSDT</string>
 				<key>Enabled</key>
 				<true/>
-				<key>Path</key>
-				<string>DSDT.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>UIAC</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-UIAC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>My custom SSDT</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-XCPM.aml</string>
-			</dict>
-			<dict>
-				<key>Enabled</key>
-				<false/>
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
 			</dict>
@@ -40,9 +16,17 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>SSDT-LPC.aml</string>
+				<string>SSDT-PLUG.aml</string>
 				<key>Path</key>
-				<string>SSDT-LPC.aml</string>
+				<string>SSDT-PLUG.aml</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT-EHCx_OFF.aml</string>
+				<key>Path</key>
+				<string>SSDT-EHCx_OFF.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
