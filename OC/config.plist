@@ -641,12 +641,9 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
 			<string>ApfsDriverLoader.efi</string>
 			<string>FwRuntimeServices.efi</string>
-			<string>VirtualSmc.efi</string>
-			<string>EmuVariableRuntimeDxe.efi</string>
-			<string>UsbKbDxe.efi</string>
+			<string>VBoxHfs.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
