@@ -106,7 +106,7 @@
 			<key>DisableSingleUser</key>
 			<false/>
 			<key>DisableVariableWrite</key>
-			<true/>
+			<false/>
 			<key>DiscardHibernateMap</key>
 			<false/>
 			<key>EnableSafeModeSlide</key>
@@ -137,12 +137,8 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwAiDQ==</data>
+				<data>BAASBA==</data>
 			</dict>
-			<key>AAPL00,override-no-connect</key>
-			<data>AP///////wAGEHycTE1HQigaAQOAPCJg6m+xp1VMniUMUFSlSwDRANHAswCpQIGAgQBxTwEBBHQAMPJwWoCwWIoAVVAhAAAeAAAA/wA0MEZIRjZBN0JHTUwKAAAA/ABERUxMIFAyNzE1UQogAAAA/QAdSx+MHgAKICAgICAgAQA=</data>
-			<key>AAPL01,override-no-connect</key>
-			<data>AP///////wAGEHycTE1HQigaAQSlPCJgOm+xp1VMniUMUFSlSwDRANHAswCpQIGAgQBxTwEBTdAAoPBwPoAwIDUAVVAhAAAaAAAA/wA0MEZIRjZBN0JHTUwKAAAA/ABERUxMIFAyNzE1UQogAAAA/QAdSx+MNgEKICAgICAgAYs=</data>
 		</dict>
 		<key>Block</key>
 		<dict>
