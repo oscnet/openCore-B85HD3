@@ -618,13 +618,13 @@
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>iMac14,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VR089HX87</string>
+			<string>D25PF3LVF8JC</string>
 			<key>MLB</key>
-			<string>C02748270QXJG36JC</string>
+			<string>C02032109R5DC771H</string>
 			<key>SystemUUID</key>
-			<string>5897B5D3-4494-584C-B6F1-4C0922B53C87</string>
+			<string>CC98F1D2-9C14-4FF7-8BD3-79E3029FF9E3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -663,7 +663,7 @@
 			<key>PointerSupport</key>
 			<false/>
 			<key>PointerSupportMode</key>
-			<string>ASUS</string>
+			<string></string>
 			<key>TimerResolution</key>
 			<integer>50000</integer>
 		</dict>
@@ -713,7 +713,7 @@
 			<key>ReplaceTabWithSpace</key>
 			<false/>
 			<key>RequestBootVarRouting</key>
-			<false/>
+			<true/>
 			<key>SanitiseClearScreen</key>
 			<true/>
 		</dict>
