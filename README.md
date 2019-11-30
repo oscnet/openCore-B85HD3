@@ -1,6 +1,8 @@
 
 ## B85-HD3 主板的  openCore 配置
 
+![主板](https://user-images.githubusercontent.com/1545917/69901078-8afcfd00-13b7-11ea-91f7-501486aed48f.png)
+
 ## 配置情况：
 
 * LGA 1150
