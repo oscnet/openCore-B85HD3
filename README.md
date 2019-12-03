@@ -12,6 +12,11 @@
 * 4×USB3.0接口（2内置+2背板），8×USB2.0接口（4内置+4背板）纠错
 * 显卡 AMD Radeon RX 580
 
+## 参考文章
+
+* [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
+* [Opencore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+
 
 ## 2019.11.26  完成硬解  
 
