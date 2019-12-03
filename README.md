@@ -17,3 +17,8 @@
 
 关闭了核显，机型设为 iMacPro1,1  加入 [AGPMInjector.kext](https://github.com/Pavo-IM/AGPMInjector)
 这两个缺一不可，否则都不可能实现硬解
+
+##  解决硬盘卡顿问题
+
+BIOS 中设置硬盘 hot plug 为 enable. 
+参考 https://news.mydrivers.com/1/645/645210.htm
